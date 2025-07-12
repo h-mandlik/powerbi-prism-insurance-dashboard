@@ -43,17 +43,20 @@ This Power BI project presents an interactive dashboard built to analyze data fr
 
 powerbi-prism-insurance-dashboard/
 │
-├── assets/ # Screenshots
-│ ├── Prism_Insurance_1_of_3.png
-│ ├── Prism_Insurance_2_of_3.png
-│ └── Prism_Insurance_3_of_3.png
+├── assets/                          # Screenshots
+│   ├── Prism_Insurance_1_of_3.png
+│   ├── Prism_Insurance_2_of_3.png
+│   └── Prism_Insurance_3_of_3.png
 │
-├── pbix/ # Power BI file
-│ └── Prism Insurance.pbix
+├── pbix/                            # Power BI project file
+│   └── Prism_Insurance.pbix
 │
-├── README.md # Project overview (this file)
-|
-└── LICENSE # License information
+├── data/                            # Raw data files
+│   ├── InsuranceData.csv
+│   └── Insurance+Customer+Feedback.xlsx
+│
+├── README.md                        # Project overview (this file)
+└── LICENSE                          # MIT License file
 
  
 ---
