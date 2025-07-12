@@ -41,6 +41,7 @@ This Power BI project presents an interactive dashboard built to analyze data fr
 
 ## 📁 Project Structure
 
+```bash
 powerbi-prism-insurance-dashboard/
 │
 ├── assets/                          # Screenshots
@@ -57,6 +58,7 @@ powerbi-prism-insurance-dashboard/
 │
 ├── README.md                        # Project overview (this file)
 └── LICENSE                          # MIT License file
+
 
  
 ---
