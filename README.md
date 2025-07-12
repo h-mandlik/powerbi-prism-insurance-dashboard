@@ -23,6 +23,9 @@ This Power BI project presents an interactive dashboard built to analyze data fr
 - ✅ Built a **Word Cloud chart** for visualizing customer sentiment
 - ✅ Implemented **Slicers** and **Bookmarks** for an interactive experience
 - ✅ Configured **Scheduled Refresh** using On-Premise Gateway (Personal Mode)
+- ✅ Added **Row-Level Security (RLS)** using Manage Roles for policy types:
+  - 🔐 `Health` Role – views only Health-related policies
+  - 🔐 `Travel` Role – views only Travel-related policies
 
 ---
 
